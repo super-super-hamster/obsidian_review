@@ -1,0 +1,27 @@
+{
+  "number-headings-obsidian:number-headings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "obsidian-heading-shifter:decrease-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-heading-shifter:increase-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}
