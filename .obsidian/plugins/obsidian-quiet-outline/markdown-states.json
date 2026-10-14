@@ -26,6 +26,7 @@
   },
   "408/思路/数据结构.md": {
     "expandedKeys": [
+      "item-2-1",
       "item-1-0"
     ],
     "cursor": {
@@ -113,25 +114,26 @@
   },
   "408/操作系统.md": {
     "expandedKeys": [
-      "item-2-235",
-      "item-1-158"
+      "item-3-288",
+      "item-2-287",
+      "item-1-286"
     ],
-    "scroll": 2680.6718411196493,
+    "scroll": 3092.3515826113285,
     "cursor": {
       "from": {
-        "line": 2692,
-        "ch": 6
+        "line": 3107,
+        "ch": 18
       },
       "to": {
-        "line": 2692,
-        "ch": 6
+        "line": 3107,
+        "ch": 18
       }
     }
   },
   "408/思路/操作系统.md": {
     "expandedKeys": [
-      "item-1-0",
-      "item-2-4"
+      "item-2-1",
+      "item-1-0"
     ],
     "cursor": {
       "from": {
@@ -142,6 +144,10 @@
         "line": 13,
         "ch": 50
       }
-    }
+    },
+    "scroll": 0
+  },
+  "408/思路/计算机网络.md": {
+    "expandedKeys": []
   }
 }
